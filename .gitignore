@@ -1,0 +1,6 @@
+pyml
+lectures
+.DS_Store
+.idea
+.ipynb_checkppints
+__pycache__
